@@ -7,7 +7,7 @@ import time
 import telebot
 
 # Initialize bot with your token
-bot = telebot.TeleBot("7358264322:AAHUP1KZSzold1VsvhiFuf6K1mWFZwWogZE")
+bot = telebot.TeleBot("8091206854:AAFtQNjRTsX2KKC-0lv4LxMeQssZwKRvW54")
 
 class Pyinzenjer:
     def __init__(self, target):
